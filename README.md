@@ -21,18 +21,8 @@ The project focuses on the **automatic detection of reappropriated slurs** in mu
 ├── XLMR_TaskA_TaskB.ipynb   # XLM-RoBERTa (Task A + Task B)
 ├── TaskA_Sparse.ipynb       # Traditional Models (Task A)
 ├── TaskB_Sparse.ipynb       # Traditional Models (Task B)
-├── data/                    # CSV datasets used in the experiments
 └── README.md
 ```
-
----
-
-## Data
-
-The repository includes the **CSV files used in the experiments**, corresponding to the datasets provided within the MultiPRIDE shared task framework.
-
-If redistribution restrictions apply, only **processed or derived data** are included.
-Please refer to the official shared task resources for the original datasets.
 
 ---
 
